@@ -45,7 +45,7 @@ There is 3 roles inside the app:
 2. Have task to complete payment
 
 # 😢 Issue
-Still need optimizing with refresh/real-time update if there is something change at backend (e.g. database), still need manual refresh
+Still need optimization with refresh/real-time update if there is something change at backend (e.g. database), still need manual refresh
 
 # 🔭 REMARKS
 The program is still in development, so all kinds of changes, optimizations and fixes are expected
