@@ -26,8 +26,11 @@ npm i
 git clone https://github.com/Lost1101/be-isekai-resto
 ``` 
 7. MAKE SURE MYSQL SERVER IS RUNNING, you can use XAMPP to turn it on
-8. Run npm run dev to run the app
-9. ENJOY!
+8. Run this to run the app
+```
+npm run dev
+```
+10. ENJOY!
 
 # 💡 Roles
 
