@@ -21,7 +21,7 @@ git clone https://github.com/Lost1101/fe-isekai-resto
 ```
 npm i
 ```  
-5. MAKE SURE THE BACKEND (API) ALREADY RUN, you can clone the API here :
+5. MAKE SURE THE BACKEND (API) IS RUNNING, you can clone the API here :
 ```
 git clone https://github.com/Lost1101/be-isekai-resto
 ``` 
