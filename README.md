@@ -1,7 +1,5 @@
 <h1 align="center">ISEKAI RESTO OwO</h1>
-<p align="center">
-  ![image](https://github.com/user-attachments/assets/c091ce3e-a9a1-4415-bf0b-7f8cd376945a)
-</p>
+![image](https://github.com/user-attachments/assets/c091ce3e-a9a1-4415-bf0b-7f8cd376945a)
 
 Build with React JS + Vite + Tailwind and the API with Express JS + Prisma ORM + MySQL. This is restaurant management app, serving ordering menu, queue, and payment. >.&lt;
 
@@ -43,8 +41,8 @@ There is 3 roles inside the app:
 1. Only have access to /payment, /queue
 2. Have task to complete payment
 
-# 😢 Cons
-Still need optimizing with refresh/real-time update from backend, still need manual refresh
+# 😢 Issue
+Still need optimizing with refresh/real-time update if there is something change at backend (e.g. database), still need manual refresh
 
 # 🔭 REMARKS
 The program is still in development, so all kinds of changes, optimizations and fixes are expected
