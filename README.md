@@ -54,3 +54,11 @@ If you have any suggestions or comments, please express them in a more modern co
 Thank you. Enjoy :D
 
 # 📸 Screenshot
+![screencapture-localhost-5173-login-2024-09-01-20_54_29](https://github.com/user-attachments/assets/0d300c5e-980b-42d3-84dc-0427883dfa33)
+![screencapture-localhost-5173-menu-2024-09-01-20_51_19](https://github.com/user-attachments/assets/a17731d2-57ea-471c-956d-f998122f5b50)
+![screencapture-localhost-5173-queue-2024-09-01-20_52_12](https://github.com/user-attachments/assets/05d3ec75-5f35-4da7-9b48-5b5651bde194)
+![screencapture-localhost-5173-list-2024-09-01-20_52_24](https://github.com/user-attachments/assets/3d21cb09-9df6-42d7-a09c-a17135ee3c38)
+![screencapture-localhost-5173-payment-2024-09-01-20_52_36](https://github.com/user-attachments/assets/871304fe-4648-4798-9fca-725a283cb251)
+![screencapture-localhost-5173-admin-2024-09-01-20_52_55](https://github.com/user-attachments/assets/b31b6b81-e359-4b24-92fc-438c7f4b8c40)
+![screencapture-localhost-5173-admin-2024-09-01-20_53_04](https://github.com/user-attachments/assets/e529efc7-8cb5-4d82-8e72-295693106c26)
+
