@@ -1,4 +1,4 @@
-![Cuplikan layar 2024-09-01 204634](https://github.com/user-attachments/assets/8cf0f3a0-a2de-4b25-ab3b-780615e331ec)
+<center>![Cuplikan layar 2024-09-01 204634](https://github.com/user-attachments/assets/8cf0f3a0-a2de-4b25-ab3b-780615e331ec)</center>
 <h1 align="center">ISEKAI RESTO OwO</h1>
 
 Build with React JS + Vite + Tailwind and the API with Express JS + Prisma ORM + MySQL. This is restaurant management app, serving ordering menu, queue, and payment. >.&lt;
