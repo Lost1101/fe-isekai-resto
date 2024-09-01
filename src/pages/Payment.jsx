@@ -18,7 +18,7 @@ export default function Payment ({auth}){
 
     useEffect(() => {
         dispatch(fetchPayments())
-    }, [dispatch, payments]);
+    }, [dispatch]);
 
     const showModal = (payment) => {
         setSelectedPayment(payment);

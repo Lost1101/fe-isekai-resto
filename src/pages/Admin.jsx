@@ -29,7 +29,7 @@ export default function Admin({auth}){
 
     useEffect(() => {
         dispatch(fetchMenus());
-    }, [menus, dispatch])
+    }, [dispatch])
 
     const showUser = () => {
         setShowModal(true);

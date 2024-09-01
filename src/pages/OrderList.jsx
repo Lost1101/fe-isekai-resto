@@ -14,7 +14,7 @@ export default function OrderList ({auth}) {
 
     useEffect(() => {
         dispatch(fetchPayments())
-    }, [dispatch, orderList]);
+    }, [dispatch]);
 
     const completeOrder = (id) =>{
         dispatch(handleOrderList(id))
