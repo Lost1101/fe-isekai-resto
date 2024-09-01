@@ -1,8 +1,55 @@
-# React + Vite
+<h1 align="center">ISEKAI RESTO OwO</h1>
+<p align="center">
+  ![image](https://github.com/user-attachments/assets/c091ce3e-a9a1-4415-bf0b-7f8cd376945a)
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Build with React JS + Vite + Tailwind and the API with Express JS + Prisma ORM + MySQL. This is restaurant management app, serving ordering menu, queue, and payment. >.&lt;
 
-Currently, two official plugins are available:
+# 📝 NOTES:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. The UI/UX might be still not friendly for user :/ (no navbar)
+2. The app might have a bug I didn't notice
+
+# 🔌 SETUP
+1. Of course, you should clone this repo
+```
+git clone https://github.com/Lost1101/fe-isekai-resto
+```
+2. Open code editor that can editing Javascript code, make sure the path inside /fe-isekai-resto
+3. Run this to download all dependency from package.json
+```
+npm i
+```  
+5. MAKE SURE THE BACKEND (API) ALREADY RUN, you can clone the API here :
+```
+git clone https://github.com/Lost1101/be-isekai-resto
+``` 
+7. MAKE SURE MYSQL SERVER IS RUNNING, you can use XAMPP to turn it on
+8. Run npm run dev to run the app
+9. ENJOY!
+
+# 💡 Roles
+
+There is 3 roles inside the app:
+**Admin**
+1. Have access to all page
+2. Full control manipulation data
+
+**Waiter**
+1. Only have access to /menu, /queue, /list
+2. Have task **customer order > take the food from cook > completing the order list** also monitoring where empty table
+
+**Cashier**
+1. Only have access to /payment, /queue
+2. Have task to complete payment
+
+# 😢 Cons
+Still need optimizing with refresh/real-time update from backend, still need manual refresh
+
+# 🔭 REMARKS
+The program is still in development, so all kinds of changes, optimizations and fixes are expected
+If you have any suggestions or comments, please express them in a more modern code format.
+
+Thank you. Enjoy :D
+
+# 📸 Screenshot
